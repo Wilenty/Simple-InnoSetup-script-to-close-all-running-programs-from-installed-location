@@ -5,4 +5,4 @@ Include my script in your InnoSetup script, one of ANSI or UTF8, depends of your
 Or, just simple copy the content of my script and paste it in your script.<br>
 <br>
 Note for all InnoSetup installers creators.<br>
-Please close all running program instances and it's subprocesses at the uninstallation, and don't leave them opened, because uninstallation may fail and the files may stay in the user storeage.
+Please close all running program instances and it's subprocesses at the uninstallation, and don't leave them opened, because uninstallation may fail and the files may stay in the user storage.
